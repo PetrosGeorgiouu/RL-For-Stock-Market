@@ -1,1 +1,1 @@
-# Reinforcement-Learning-Agent-for-Optimal-Stock-Trading-in-a-Simulated-Marke
+# Reinforcement Learning Agent for Optimal Stock Trading in a Simulated Market
